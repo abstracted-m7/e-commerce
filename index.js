@@ -1,5 +1,5 @@
 
-// alert("Welcome to the miniKart")
+alert("Welcome to the miniKart")
 // Declare the query elements
 let mainPage = document.querySelector(".mainPage");
 let blogContent = document.querySelector(".blogContent");
